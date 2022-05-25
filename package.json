@@ -1,0 +1,24 @@
+{
+  "name": "data-visualization-using-c3-library-",
+  "version": "1.0.0",
+  "description": "data visualization using C3 library",
+  "main": "connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kennedymuthuri/Data-visualization-using-C3-library-.git"
+  },
+  "author": "kennedy muthuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kennedymuthuri/Data-visualization-using-C3-library-/issues"
+  },
+  "homepage": "https://github.com/Kennedymuthuri/Data-visualization-using-C3-library-#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
