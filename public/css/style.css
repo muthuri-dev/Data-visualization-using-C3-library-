@@ -1,0 +1,10 @@
+*{
+    margin: 0px;margin: 0px;
+}
+body{
+   display:grid;
+   place-content: center;
+}
+#charts .c3-line-dataset2{
+    stroke-width: 5px;
+}
